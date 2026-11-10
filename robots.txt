@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://francielimanfio.vercel.app/sitemap.xml
